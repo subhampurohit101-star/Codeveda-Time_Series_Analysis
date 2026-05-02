@@ -83,4 +83,4 @@ The ARIMA model effectively captured the time-dependent structure of the dataset
 
 ## 🔗 Author
 
-Your Name
+Subham Ranjan Purohit
